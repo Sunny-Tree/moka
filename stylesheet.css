@@ -57,6 +57,9 @@ body {
     float: left;
     margin-right: 40px;
   }
+  .contents-item img {
+      weidh: 25%;
+      heigh: 25%;
   
   .contents-item p {
     font-size: 24px;
